@@ -1,0 +1,79 @@
+{
+	"easy": [{
+		"category": "Targets",
+		"title": "What is an easy target?",
+		"correctAnswer": "3",
+		"answers": {
+			"0": "A bank",
+			"1": "High school students",
+			"2": "Your mom",
+			"3": "The elderly"
+		}
+	}, {
+		"category": "sample",
+		"title": "test?",
+		"answers": {
+			"0": "wrong",
+			"1": "wrong",
+			"2": "correct",
+			"3": "wrong"
+		},
+		"correctAnswer": "2"
+	}],
+
+	"medium": [{
+		"category": "Distribution",
+		"title": "What is a fast, successful way to distribute an attack?",
+		"answers": {
+			"0": "Through a newspaper",
+			"1": "Place a USB stick",
+			"2": "Email",
+			"3": "Facebook"
+		},
+		"correctAnswer": "2"
+	}, {
+		"category": "sample",
+		"title": "test?",
+		"answers": {
+			"0": "wrong",
+			"1": "wrong",
+			"2": "correct",
+			"3": "wrong"
+		},
+		"correctAnswer": "2"
+	}],
+
+	"hard": [{
+		"category": "Exploits",
+		"title": "What is an exploit?",
+		"answers": {
+			"0": "A new type of computer",
+			"1": "An old type of computer",
+			"2": "Code that shows/abuses a vulnerability in an application",
+			"3": "A way of mathematically verifying a file using the ‘exploit’ algorithm"
+		},
+		"correctAnswer": "2"
+	}, {
+		"category": "sample",
+		"title": "test?",
+		"answers": {
+			"0": "wrong",
+			"1": "wrong",
+			"2": "correct",
+			"3": "wrong"
+		},
+		"correctAnswer": "2"
+	}],
+
+	"special": [{
+		"category": "sample",
+		"title": "What is a special question?",
+		"answers": {
+			"0": "wrong",
+			"1": "wrong",
+			"2": "wrong",
+			"3": "correct"
+		},
+		"correctAnswer": "3"
+	}]
+}

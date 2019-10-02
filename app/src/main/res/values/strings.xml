@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hackerman</string>
+
+
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="special">Very Hard</string>
+
+    <string name="questions_available">\u0020questions available</string>
+
+    <string name="back_question">You cannot abandon a question!</string>
+    <string name="correct">You were right!</string>
+    <string name="wrong">Wrong</string>
+
+    <string name="okay">Okay</string>
+
+    <string name="leave_game_title">Leave game?</string>
+    <string name="are_sure">Are you sure you want to quit Hackerman?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <plurals name="space_to_move">
+        <item quantity="one">Move forward %d space!</item>
+        <item quantity="other">Move forward %d spaces!</item>
+    </plurals>
+</resources>
